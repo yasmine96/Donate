@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/health"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="الصحة و العلاج"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#000" />
+    <Button
+        android:id="@+id/loan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="غارمين"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#000" />
+    <Button
+        android:id="@+id/education"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="تعليم"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#000" />
+    <Button
+        android:id="@+id/projects"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="مشاريع"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#000" />
+    <Button
+        android:id="@+id/brides"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="تجهيز عرائس"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#000" />
+    <Button
+        android:id="@+id/appliances"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="اجهزة كهربائية"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#000" />
+    <Button
+        android:id="@+id/village"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="عن القرية"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#000" />
+
+</LinearLayout>

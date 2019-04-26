@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E0DADF</color>
+    <color name="colorPrimaryDark">#E0DADF</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="healthcolor">#96031A</color>
+    <color name="loancolor">#1B1B1E</color>
+    <color name="loanbackground">#36494E</color>
+    <color name="educationcolor">#023a3d</color>
+    <color name="projectscolor">#502908</color>
+    <color name="projectsbackground">#fdf900</color>
+    <color name="donate">#f40909</color>
+</resources>
